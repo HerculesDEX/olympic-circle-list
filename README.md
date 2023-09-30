@@ -30,4 +30,5 @@ github (string)
 telegram (string)
 defillama (string)
 Disclaimer
+
 Note filing an issue does not guarantee addition to the Olympic Circle list, and is reserved to already approved members only.
