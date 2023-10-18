@@ -22,13 +22,13 @@ website (string): link to your app
 
 4. Provide the following optional links for your protocol.
 
-twitter (string)
-discord (string)
-docs (string)
-medium (string)
-github (string)
-telegram (string)
-defillama (string)
-Disclaimer
+-twitter (string)
+-discord (string)
+-docs (string)
+-medium (string)
+-github (string)
+-telegram (string)
+-defillama (string)
 
+Disclaimer
 Note filing an issue does not guarantee addition to the Olympic Circle list, and is reserved to already approved members only.
